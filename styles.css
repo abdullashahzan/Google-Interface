@@ -1,0 +1,184 @@
+body {
+    background-color: #222222;
+}
+
+.links {
+    font-size: 14px;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: beige;
+    padding: 13px;
+    float: right;
+}
+
+.links:hover {
+    text-decoration: underline;
+}
+
+#searcher {
+    position: relative;
+    top: 220px;
+    left: 400px;
+    font-size: 18px;
+    border-radius: 25px;
+    padding: 10px;
+    font-family: sans-serif;
+}
+
+#gsearcher {
+    position: relative;
+    top: 300px;
+    right: 15px;
+    font-size: 18px;
+    padding: 7px;
+    background-color: #323133;
+    color: beige;
+    border-radius: 7px;
+    border: none;
+}
+
+#igsearcher {
+    position: relative;
+    top: 300px;
+    left: 55px;
+    font-size: 18px;
+    padding: 7px;
+    background-color: #323133;
+    color: beige;
+    border-radius: 7px;
+    border: none;
+}
+
+#lucky {
+    position: relative;
+    top: 300px;
+    right: 10px;
+    font-size: 18px;
+    padding: 7px;
+    background-color: #323133;
+    color: beige;
+    border-radius: 7px;
+    border: none;
+}
+
+#gsearcher:hover {
+    background-color: #383838;
+    cursor: pointer;
+}
+
+#igsearcher:hover {
+    background-color: #383838;
+    cursor: pointer;
+}
+
+#lucky:hover {
+    background-color: #383838;
+    cursor: pointer;
+}
+
+img {
+    position: relative;
+    top: 200px;
+    left: 518px;
+}
+
+#advimg {
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+h1 {
+    position: relative;
+    color: lightcoral;
+    font-family: sans-serif;
+    font-size: 22px;
+    top: 20px;
+    left: 50px;
+    font-weight: 10;
+}
+
+.line1 {
+    position: relative;
+    border-top: 1px solid #383838;
+    top: 25px;
+}
+
+h2 {
+    position: relative;
+    color: lightgray;
+    font-family: sans-serif;
+    font-weight: 10;
+    top: 50px;
+    left: 50px;
+    font-size: 16px;
+}
+
+.points {
+    position: relative;
+    top: 60px;
+    left: 40px;
+    padding: 10px;
+    font-family: sans-serif;
+    color: rgb(140, 149, 158);
+    font-size: 12px;
+    font-weight: 20;
+}
+
+#text1 {
+    position: relative;
+    top: -118px;
+    left: 300px;
+    padding: 5px;
+    font-family: sans-serif;
+    background-color: #323133;
+    border: none;
+    color: beige;
+}
+
+#text2 {
+    position: relative;
+    top: -73px;
+    left: -303px;
+    padding: 5px;
+    font-family: sans-serif;
+    background-color: #323133;
+    border: none;
+    color: beige;
+}
+
+#text3 {
+    position: relative;
+    top: -55px;
+    left: 300px;
+    padding: 5px;
+    font-family: sans-serif;
+    background-color: #323133;
+    border: none;
+    color: beige;
+}
+
+#text4 {
+    position: relative;
+    left: -303px;
+    top: -9px;
+    padding: 5px;
+    font-family: sans-serif;
+    background-color: #323133;
+    border: none;
+    color: beige;
+}
+
+#advsbtn {
+    position: relative;
+    background-color: rgb(112, 182, 226);
+    border: none;
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 10px;
+    top: 50px;
+    left: -435px;
+    border-radius: 7px;
+    color: beige;
+}
